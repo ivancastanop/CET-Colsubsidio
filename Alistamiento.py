@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="",
 )
 
-st.title("Alistamiento de Información - Registros Calificados")
+st.title("Alistamiento de Información - Históricos SNIES")
 
 uploaded_file = st.file_uploader(
     "Selecciona el archivo a cargar: ", accept_multiple_files=False
