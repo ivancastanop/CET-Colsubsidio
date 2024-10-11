@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(
-    page_title="Alistamiento de Información - Registros Calificados",
+    page_title="Alistamiento de Información - Históricos SNIES",
     page_icon="",
 )
 
